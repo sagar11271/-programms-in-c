@@ -1,0 +1,6 @@
+#include <stdio.h>  // # is preprocessive directory which has to be include(standard input output)
+
+int main()          // execution always start from main function
+{
+printf("Hello");    // print hello in console screen
+}
