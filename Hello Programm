@@ -2,5 +2,6 @@
 
 int main()          // execution always start from main function
 {
-printf("Hello");    // print hello in console screen
+	printf("Hello");    // print hello in console screen
+	return 0;			// return 0 to main function indicate successfully compiled the function.
 }
